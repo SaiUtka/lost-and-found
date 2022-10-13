@@ -1,0 +1,99 @@
+.add-item__wrapper {
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+    align-items: center;
+    width: 800px;
+    padding: 25px 15px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background: #fff;
+    transform: translate(0px, -100%);
+}
+
+.add-item__title {
+    font-size: 35px;
+}
+
+.add-item__options {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+    align-items: center;
+}
+
+.add__option {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    row-gap: 10px;
+}
+
+.add__option > h3 {
+    font-size: 25px;
+}
+
+.add__title > input {
+    padding: 10px 0 10px 5px;
+    width: 90%;
+    font-size: 15px;
+}
+
+.add__status > .radio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.radio > .lost, .found {
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+
+.radio > .lost {
+    color: #ff8686;
+}
+
+.radio > .found {
+    color: #5bd25b;
+}
+
+.add__description > textarea {
+    max-width: 90%;
+    min-width: 40%;
+    min-height: 50px;
+    max-height: 150px;
+    font-size: 15px;
+    padding: 5px 0 0 5px;
+}
+
+.add-item__buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.add-item__buttons > button {
+    padding: 8px 25px;
+    border: none;
+}
+
+.add-item__buttons > .add {
+    background-color: #458545;
+    color: #fff;
+}
+
+.add-item__buttons > .add:hover {
+    background-color: rgb(69, 133, 69, .8);
+    transition: 0.3s;
+}
+
+.add-item__buttons > .cancel:hover {
+    background-color: #e1e1e1;
+    transition: 0.3s;
+}

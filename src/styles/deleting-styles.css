@@ -1,0 +1,27 @@
+.deleting__wrapper {
+    /*width: 40%;*/
+    padding: 40px 80px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 30px;
+    border-radius: 20px;
+}
+
+.acceptation-buttons {
+    display: flex;
+    column-gap: 20px;
+}
+
+.acceptation-buttons > button {
+    border: 0;
+    background-color: rgb(0 0 0);
+    padding: 8px 25px;
+    color: #e1e1e1;
+    border-radius: 10px;
+}
+
+.acceptation-buttons > button:hover {
+    background-color: rgb(0, 0, 0, .5);
+}

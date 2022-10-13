@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Lorem Ipsum",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "status": "lost",
+      "date": "2/8/2022"
+    },
+    {
+      "id": 2,
+      "title": "IPhone 10",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pretium nibh nulla, a sagittis mi bibendum ac. Etiam blandit risus ex, vitae dictum dui semper eget. Mauris suscipit, dui quis cursus porttitor, sem risus cursus massa, eu aliquam mauris magna quis metus. Donec et felis at felis tristique commodo eu nec mauris. Integer a sem suscipit, pulvinar sapien vitae, fringilla odio. Praesent convallis sapien mi, eu vulputate eros faucibus quis. Proin id neque sed augue bibendum posuere a ut metus. Nam at faucibus mauris. Vivamus rutrum bibendum sem, non interdum nulla dictum a. Donec porta enim eget cursus convallis. Vestibulum nec enim quis felis vulputate tempus. Vivamus ultrices, metus vel laoreet vehicula, mi metus tincidunt ipsum, vulputate consectetur neque metus a justo.\n\n",
+      "status": "lost",
+      "date": "1/10/2022"
+    },
+    {
+      "id": 3,
+      "title": "Car Keys",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pretium nibh nulla, a sagittis mi bibendum ac. Etiam blandit risus ex, vitae dictum dui semper eget. Mauris suscipit, dui quis cursus porttitor, sem risus cursus massa, eu aliquam mauris magna quis metus. Donec et felis at felis tristique commodo eu nec mauris. Integer a sem suscipit, pulvinar sapien vitae, fringilla odio. Praesent convallis sapien mi, eu vulputate eros faucibus quis. Proin id neque sed augue bibendum posuere a ut metus. Nam at faucibus mauris.",
+      "status": "found",
+      "date": "10/8/2022"
+    },
+    {
+      "id": 4,
+      "title": "Documents",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pretium nibh nulla, a sagittis mi bibendum ac. Etiam blandit risus ex, vitae dictum dui semper eget. Mauris suscipit, dui quis cursus porttitor, sem risus cursus massa, eu aliquam mauris magna quis metus. Donec et felis at felis tristique commodo eu nec mauris. Integer a sem suscipit, pulvinar sapien vitae, fringilla odio. Praesent convallis sapien mi, eu vulputate eros faucibus quis. Proin id neque sed augue bibendum posuere a ut metus.",
+      "status": "lost",
+      "date": "8/12/2021"
+    },
+    {
+      "id": 5,
+      "title": "T-shirt",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pretium nibh nulla, a sagittis mi bibendum ac. Etiam blandit risus ex, vitae dictum dui semper eget.",
+      "status": "found",
+      "date": "14/11/2022"
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter book",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pretium nibh nulla, a sagittis mi bibendum ac. Etiam blandit risus ex, vitae dictum dui semper eget. Mauris suscipit, dui quis cursus porttitor, sem risus cursus massa, eu aliquam mauris magna quis metus. Donec et felis at felis tristique commodo eu nec mauris. Integer a sem suscipit, pulvinar sapien vitae, fringilla odio. Praesent convallis sapien mi, eu vulputate eros faucibus quis. Proin id neque sed augue bibendum posuere a ut metus. Nam at faucibus mauris. Vivamus rutrum bibendum sem, non interdum nulla dictum a. Donec porta enim eget cursus convallis. Vestibulum nec enim quis felis vulputate tempus. Vivamus ultrices, metus vel laoreet vehicula, mi metus tincidunt ipsum, vulputate consectetur neque metus a justo.",
+      "status": "found",
+      "date": "2.8.2022"
+    }
+  ]
+}
